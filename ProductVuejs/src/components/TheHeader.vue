@@ -34,7 +34,7 @@
 
             <li class="nav-item">
               <router-link :to="{ name: 'admin-dangki' }">
-                <a class="nav-link active" aria-current="page">Đăng kí</a>
+                <a class="nav-link active" aria-current="page">SigNup</a>
               </router-link>
             </li>
           </ul>

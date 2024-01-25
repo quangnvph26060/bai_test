@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <div class="alert alert-primary" role="alert">
-            Nguyễn Trọng Nam
+            Nguyễn Văn Quang
         </div>
     </div>
 </template>
